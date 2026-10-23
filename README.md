@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Dark-Souls-III-Character-Utility` · Updated: 2026-10-07
+`Dark-Souls-III-Character-Utility` · Updated: 2026-10-24
 
 **Tags:** `dark-souls-3` `character-editor` `soulslike` `rpg` `windows`
